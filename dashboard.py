@@ -36,7 +36,7 @@ def create_category_orders_df(df):
 
 
 # Membaca data dari CSV
-all_df = pd.read_csv("main_data.csv")
+all_df = pd.read_csv("main_data2.csv")
 
 # Mendefinisikan kolom datetime
 datetime_columns = ["order_purchase_timestamp"]
